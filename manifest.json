@@ -1,0 +1,19 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2860",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "ExoplanetsTraver",
+  "version": "1.0.0",
+  "author": "ExTeam",
+  "projectID": 0,
+  "files": [],
+  "overrides": "overrides"
+}
