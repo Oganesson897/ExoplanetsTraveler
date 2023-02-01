@@ -1,0 +1,7 @@
+{
+	title: "{modpack.chapter.1}",
+	icon: "advancedrocketry:moonturf",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

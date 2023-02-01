@@ -1,0 +1,267 @@
+{
+	x: -6.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "4ed17e14",
+		type: "checkmark",
+		title: "{modpack.quests.00001}",
+		icon: "minecraft:sapling"
+	}],
+	rewards: [{
+		uid: "2a5f9f98",
+		type: "item",
+		item: {
+			id: "akashictome:tome",
+			tag: {
+				"akashictome:data": {
+					theoneprobe: {
+						id: "theoneprobe:probenote",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "theoneprobe"
+						}
+					},
+					tconstruct: {
+						id: "tconstruct:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "tconstruct"
+						}
+					},
+					conarm: {
+						id: "conarm:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "conarm"
+						}
+					},
+					astralsorcery: {
+						id: "astralsorcery:itemjournal",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "astralsorcery"
+						}
+					},
+					nuclearcraft: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "nuclearcraft:guide",
+							"akashictome:definedMod": "nuclearcraft"
+						}
+					},
+					bloodmagic: {
+						id: "guideapi:bloodmagic-guide",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "bloodmagic"
+						}
+					},
+					solcarrot: {
+						id: "solcarrot:food_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "solcarrot"
+						}
+					},
+					bloodarsenal: {
+						id: "guideapi:bloodarsenal-guide",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "bloodarsenal"
+						}
+					},
+					draconicevolution: {
+						id: "draconicevolution:info_tablet",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "draconicevolution"
+						}
+					},
+					bloodmagic1: {
+						id: "bloodmagic:sanguine_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "bloodmagic1"
+						}
+					},
+					cookingforblockheads: {
+						id: "cookingforblockheads:recipe_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "cookingforblockheads"
+						}
+					},
+					cookingforblockheads1: {
+						id: "cookingforblockheads:recipe_book",
+						Count: 1,
+						Damage: 1s,
+						tag: {
+							"akashictome:definedMod": "cookingforblockheads1"
+						}
+					},
+					cookingforblockheads2: {
+						id: "cookingforblockheads:recipe_book",
+						Count: 1,
+						Damage: 2s,
+						tag: {
+							"akashictome:definedMod": "cookingforblockheads2"
+						}
+					},
+					extendedcrafting: {
+						id: "extendedcrafting:guide",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "extendedcrafting"
+						}
+					},
+					extrautils2: {
+						id: "extrautils2:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "extrautils2"
+						}
+					},
+					ftbquests: {
+						id: "ftbquests:book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "ftbquests"
+						}
+					},
+					hammercore: {
+						id: "hammercore:manual",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "hammercore"
+						}
+					},
+					industrialforegoing: {
+						id: "industrialforegoing:book_manual",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "industrialforegoing"
+						}
+					},
+					thermalfoundation: {
+						id: "thermalfoundation:tome_lexicon",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "thermalfoundation"
+						}
+					},
+					botania: {
+						id: "botania:lexicon",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "botania"
+						}
+					},
+					qmd: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "qmd:guide",
+							"akashictome:definedMod": "qmd"
+						}
+					},
+					twilightforest: {
+						id: "patchouli:guide_book",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"patchouli:book": "twilightforest:guide",
+							"akashictome:definedMod": "twilightforest"
+						}
+					},
+					actuallyadditions: {
+						id: "actuallyadditions:item_booklet",
+						Count: 1,
+						Damage: 0s,
+						tag: {
+							"akashictome:definedMod": "actuallyadditions"
+						}
+					}
+				},
+				"akashictome:is_morphing": 1b
+			}
+		}
+	},
+	{
+		uid: "afe32cad",
+		type: "item",
+		item: {
+			id: "scannable:scanner",
+			tag: {
+				energy: 5000,
+				items: {
+					Items: [{
+						Slot: 0,
+						id: "scannable:module_ore_rare",
+						Count: 1,
+						Damage: 0s
+					},
+					{
+						Slot: 1,
+						id: "scannable:module_range",
+						Count: 1,
+						Damage: 0s
+					},
+					{
+						Slot: 2,
+						id: "scannable:module_range",
+						Count: 1,
+						Damage: 0s
+					},
+					{
+						Slot: 3,
+						id: "scannable:module_ore_common",
+						Count: 1,
+						Damage: 0s
+					}],
+					Size: 9
+				}
+			}
+		}
+	},
+	{
+		uid: "bcabd0e6",
+		type: "item",
+		item: {
+			id: "pouchofunknown:pouch",
+			tag: {
+				Inventory: []
+			}
+		}
+	},
+	{
+		uid: "7207bf96",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			Damage: 466s,
+			tag: {
+				Charge: 100000L
+			}
+		}
+	}]
+}

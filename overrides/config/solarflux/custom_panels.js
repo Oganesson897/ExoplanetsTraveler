@@ -35,6 +35,7 @@ define func function
 define english "en_us"
 
 /** This function is called when mod is being constructed */
+
 func init()
 {
 	// Example: (textures are extracted in /textures/ by default), uncomment to try it out! (Requires game restart)

@@ -1,0 +1,8 @@
+{
+	"name": "modpack.guide.name",
+	"landing_text": "modpack.guide.landing_text",
+    "book_textures": "patchouli:textures/gui/book_gray.png",
+    "model": "modpack:textures/items/guide.png",
+    "i18n": true,
+	"version": 897
+}
