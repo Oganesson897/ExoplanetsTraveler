@@ -1,0 +1,7 @@
+name = "tjcore"
+filename = "tjcore-0.0.3-ext-fork.jar"
+
+[download]
+url = "https://github.com/Darknight123MC/ExoplanetsTraver/raw/main/mods/tjcore-0.0.3-ext-fork.jar"
+hash-format = "sha1"
+hash = "c689b39c6dcf0a2746be84f163f493e73d94a004"
