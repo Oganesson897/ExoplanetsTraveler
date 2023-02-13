@@ -2370,8 +2370,18 @@ hash = "58473bbbfb72a4e7aa553ecee24cc654756443860042af596ec94d2e94ac3be9"
 metafile = true
 
 [[files]]
+file = "mods/gregicality-multiblocks.pw.toml"
+hash = "f09e9929243707e1ef927cdcfae4654edb7194b101519262ed3909d7d5b50f04"
+metafile = true
+
+[[files]]
 file = "mods/gregtech-1.12.2-2.4.0-gcys-alpha.jar"
 hash = "a2461b070944295c80568b3e9ee0e3871363ac610183ac53a0f007d2393bfb1a"
+
+[[files]]
+file = "mods/gregtech-ce-unofficial.pw.toml"
+hash = "06962db644564d441c548221d01aba6b20af00e6850f3ff9925c108eb45d2e5f"
+metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
@@ -2541,6 +2551,11 @@ metafile = true
 [[files]]
 file = "mods/libvulpes.pw.toml"
 hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
+metafile = true
+
+[[files]]
+file = "mods/lolasm.pw.toml"
+hash = "85dd47f10080ff28b61d0413635389cde99e077716d5c2fba07717e7f5613990"
 metafile = true
 
 [[files]]
