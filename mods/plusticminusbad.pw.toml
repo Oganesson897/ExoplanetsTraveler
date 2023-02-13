@@ -1,0 +1,13 @@
+name = "xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)"
+filename = "plustic-8.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c24d81bda2bdba5d499ad9742896b1a48dd73989"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3648592
+project-id = 376903

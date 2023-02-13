@@ -1,0 +1,13 @@
+name = "Psio"
+filename = "psio-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c6e94c9b6bad0c4c8ff3cb83b0c9b8f5a9d4caa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3077697
+project-id = 339394

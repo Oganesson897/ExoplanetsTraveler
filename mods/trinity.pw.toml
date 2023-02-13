@@ -1,0 +1,13 @@
+name = "Trinity"
+filename = "Trinity-1.4.b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bb4fe549c9cec9981a1d6096c8206af3a4cd503"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3250277
+project-id = 354949

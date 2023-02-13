@@ -1,0 +1,13 @@
+name = "Tinkers OreDict Cache"
+filename = "TinkersOreDictCache-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ae54f790932dd679f7ac2a672f933e3f4d800f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3519479
+project-id = 545353

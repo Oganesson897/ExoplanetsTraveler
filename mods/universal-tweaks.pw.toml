@@ -1,0 +1,13 @@
+name = "Universal Tweaks"
+filename = "UniversalTweaks-1.12.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "878b607d8c22bb8830de75f14777a1c888fa8d8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4285431
+project-id = 705000

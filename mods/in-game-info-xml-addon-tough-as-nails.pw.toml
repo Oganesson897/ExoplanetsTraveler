@@ -1,0 +1,13 @@
+name = "In Game Info XML Addon - Tough As Nails"
+filename = "IGI-ToughAsNails-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7ec280ec9b23db373d75c63fe8fc3e28f3d7070"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2622749
+project-id = 261741

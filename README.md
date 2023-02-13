@@ -1,2 +1,0 @@
-# ExoplanetsTraver
- A modpack.

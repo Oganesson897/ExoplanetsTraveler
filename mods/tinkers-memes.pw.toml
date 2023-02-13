@@ -1,0 +1,13 @@
+name = "Tinkers' MEMES"
+filename = "tmemes-1.12.2-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "594494d57ec1cba0f2b626de931f8c7eef9ceec3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2826019
+project-id = 322345

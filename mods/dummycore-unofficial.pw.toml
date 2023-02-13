@@ -1,0 +1,13 @@
+name = "DummyCore Unofficial"
+filename = "DummyCoreUnofficial-2.4.112.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "279499fec7b1ea593669c7fc09959b2266aabe78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2611426
+project-id = 266491

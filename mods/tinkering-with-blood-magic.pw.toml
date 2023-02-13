@@ -1,0 +1,13 @@
+name = "Tinkering with Blood Magic"
+filename = "bloodtinker-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e636312c365af262ab8a291ad321b8a6dad1dde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2638208
+project-id = 306851

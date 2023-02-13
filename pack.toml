@@ -1,0 +1,13 @@
+name = "ExT"
+author = "ExTeam"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5fa4f973984825eb61d348fbf5ca0a3a7f0759225775a475b25b5d7824552b0f"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

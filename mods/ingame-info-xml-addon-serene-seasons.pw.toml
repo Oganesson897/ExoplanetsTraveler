@@ -1,0 +1,13 @@
+name = "Seasons XML Integration"
+filename = "IGISereneSeasons.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ee8e6602fa1433f504498e1d7e8f8b588e3dd38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2581260
+project-id = 297810

@@ -1,0 +1,13 @@
+name = "Plus Tweaks"
+filename = "plustweaks-1.4.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16cd220f0f4febd3af3ec90fccedf1458c98639e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3042436
+project-id = 365686

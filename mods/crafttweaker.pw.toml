@@ -1,0 +1,13 @@
+name = "CraftTweaker"
+filename = "CraftTweaker2-1.12-4.1.20.683.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "278224964bfb0c4c8b30f6bebdd2db02809b389b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4353149
+project-id = 239197

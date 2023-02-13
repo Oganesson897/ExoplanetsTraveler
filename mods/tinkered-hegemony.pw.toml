@@ -1,0 +1,13 @@
+name = "Tinkered Hegemony"
+filename = "TinkeredHegemony-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1dda3e515addca858f138f05e869ca83365e9f2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2624871
+project-id = 292491

@@ -1,0 +1,13 @@
+name = "Improved Backpacks"
+filename = "ImprovedBackpacks-1.12.2-1.5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "021f50ce1abe2d504f8111df75cf845e03efd3fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2918455
+project-id = 270457

@@ -1,0 +1,13 @@
+name = "Zettai Psi"
+filename = "ZettaiPsi-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb0102edc45fb4c99da2432b32429a38054b5454"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3662855
+project-id = 537428

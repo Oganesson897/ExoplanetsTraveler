@@ -1,0 +1,13 @@
+name = "AE2 Stuff"
+filename = "ae2stuff-0.7.0.4-mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8edee35416790dca35f39911c3b0aaf4d6609a73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2491032
+project-id = 225194
