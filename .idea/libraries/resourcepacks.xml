@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="resourcepacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Default-Dark-Mode-1.12-v1.4.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Modernity-format3-v3.7.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Minecraft-Mod-Language-Modpack.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/ModernityExtra-format3-v1.3.2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
