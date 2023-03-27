@@ -2371,7 +2371,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregicality-multiblocks.pw.toml"
-hash = "f09e9929243707e1ef927cdcfae4654edb7194b101519262ed3909d7d5b50f04"
+hash = "611e7957da3595e9c63ff076b17f3ddcba314b5c15168dc1c08058d2391034d9"
 metafile = true
 
 [[files]]
@@ -2380,12 +2380,12 @@ hash = "a2461b070944295c80568b3e9ee0e3871363ac610183ac53a0f007d2393bfb1a"
 
 [[files]]
 file = "mods/gregtech-ce-unofficial.pw.toml"
-hash = "06962db644564d441c548221d01aba6b20af00e6850f3ff9925c108eb45d2e5f"
+hash = "69508a9d5d785de84acab8d63197f24bfefeec5968bb2c24ab50d0a03a8d1670"
 metafile = true
 
 [[files]]
 file = "mods/groovyscript.pw.toml"
-hash = "392e1d788b0c847966f04fec2049157c0e87219570bd31c0bac45ddf60a35ae9"
+hash = "3ea89e1c9eb64e38a6e579dad0c2a49c7ff62ce79cbb84c8081aa90dbe8dd350"
 metafile = true
 
 [[files]]
